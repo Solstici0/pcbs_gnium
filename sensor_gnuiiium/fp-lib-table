@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "qrd111x")(type "KiCad")(uri "${KICAD_ROBOCELL_FP}/qrd111x.pretty")(options "")(descr ""))
+)
